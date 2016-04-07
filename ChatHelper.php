@@ -1,12 +1,8 @@
-a
-
-hello
-jdfhdfjhgdfkh
-fdöglkdflgkdflg
-fdgkdflkgdkfgjdk
 ödfgldfkg
 ödfgldfkg
 jdfhgjdfgjfd
 fdjgfkgjfkdg
 lfkgldfkgkfdgjk
 REMOTE
+
+LOCAL
